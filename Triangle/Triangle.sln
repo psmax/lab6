@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Triangle", "Triangle\Triangle.vcxproj", "{BB4FA4AE-C382-49FC-AA57-FBF23EAD28F6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tests", "Tests\Tests.vcxproj", "{A37C4258-0AC0-46DE-A793-58E21850DE07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB4FA4AE-C382-49FC-AA57-FBF23EAD28F6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BB4FA4AE-C382-49FC-AA57-FBF23EAD28F6}.Debug|Win32.Build.0 = Debug|Win32
+		{BB4FA4AE-C382-49FC-AA57-FBF23EAD28F6}.Release|Win32.ActiveCfg = Release|Win32
+		{BB4FA4AE-C382-49FC-AA57-FBF23EAD28F6}.Release|Win32.Build.0 = Release|Win32
+		{A37C4258-0AC0-46DE-A793-58E21850DE07}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A37C4258-0AC0-46DE-A793-58E21850DE07}.Debug|Win32.Build.0 = Debug|Win32
+		{A37C4258-0AC0-46DE-A793-58E21850DE07}.Release|Win32.ActiveCfg = Release|Win32
+		{A37C4258-0AC0-46DE-A793-58E21850DE07}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
